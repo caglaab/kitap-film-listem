@@ -3,7 +3,8 @@
 Okuduğum kitapları ve izlediğim filmleri takip ettiğim basit bir web uygulaması. Web Geliştirme / JavaScript eğitim programı proje ödevi olarak hazırlandı.
 
 🔗 **Canlı site:** 
-(https://github.com/caglaab/kitap-film-listem)
+
+https://kitap-film-listem.netlify.app
 
 ## Ekran Görüntüsü
 
@@ -30,7 +31,7 @@ Okuduğum kitapları ve izlediğim filmleri takip ettiğim basit bir web uygulam
 ## Kurulum
 
 ```bash
-git clone https://github.com/KULLANICI_ADIN/kitap-film-listem.git
+git clone https://github.com/caglaab/kitap-film-listem
 cd kitap-film-listem
 npm install
 npm run dev
